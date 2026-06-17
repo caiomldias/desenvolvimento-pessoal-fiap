@@ -27,11 +27,14 @@ Soft Skills:       Comunicação | Disciplina | Trabalho em equipe | Aprendizado
 
 ## Projetos relacionados
 
+### Trabalhos consolidados neste repositório
+
+- Fintech Fluxa: dashboard financeiro, modelagem lógica/relacional, user stories e casos de uso
+- Exercícios em Python: lógica, estruturas condicionais, repetição e cálculos financeiros
+
+
 - Challenge JOVI Vivo: https://github.com/caiomldias/challenge-jovi-vivo
 - Global Solution Sentinela do Cerrado: https://github.com/caiomldias/global-solution-sentinela-cerrado
-- Fintech Fluxa: https://github.com/caiomldias/fintech-fluxa
-- Fintech ADS: https://github.com/caiomldias/fintech-ads
-- Modelagem de Casos de Uso: https://github.com/caiomldias/modelagem-casos-de-uso
 
 ## Estrutura
 
