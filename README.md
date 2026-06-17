@@ -1,32 +1,34 @@
 # Desenvolvimento Pessoal na FIAP
 
-Este repositorio registra minha evolucao como estudante de Analise e Desenvolvimento de Sistemas na FIAP. A ideia e documentar aprendizados, projetos, desafios, reflexoes e proximos passos ao longo da faculdade.
+Este repositório registra minha evolução como estudante de Análise e Desenvolvimento de Sistemas na FIAP. A ideia é documentar aprendizados, projetos, desafios, reflexões e próximos passos ao longo da faculdade.
 
 ## Objetivo
 
-Manter um historico organizado do meu desenvolvimento academico e tecnico, mostrando como estou evoluindo em programacao, modelagem, documentacao, GitHub, resolucao de problemas e construcao de projetos.
+Manter um histórico organizado do meu desenvolvimento acadêmico e técnico, mostrando como estou evoluindo em programação, modelagem, documentação, GitHub, resolução de problemas e construção de projetos.
 
-## Como vou usar este repositorio
+## Como vou usar este repositório
 
 - Registrar aprendizados importantes por disciplina ou tema
-- Documentar projetos academicos e decisoes tomadas
-- Guardar reflexoes sobre dificuldades e evolucao
-- Acompanhar objetivos de curto e medio prazo
-- Construir um historico publico do meu crescimento na area de tecnologia
+- Documentar projetos acadêmicos e decisões tomadas
+- Guardar reflexões sobre dificuldades e evolução
+- Acompanhar objetivos de curto e médio prazo
+- Construir um histórico público do meu crescimento na área de tecnologia
 
-## Areas de desenvolvimento
+## Áreas de desenvolvimento
 
 ```text
-Fundamentos:       Logica de programacao | Algoritmos | Estruturas basicas
+Fundamentos:       Lógica de programação | Algoritmos | Estruturas básicas
 Web:               HTML | CSS | Responsividade | JavaScript
-Engenharia:        Requisitos | User Stories | Casos de Uso | Documentacao
-Ferramentas:       Git | GitHub | GitHub CLI | Organizacao de repositorios
+Engenharia:        Requisitos | User Stories | Casos de Uso | Documentação
+Ferramentas:       Git | GitHub | GitHub CLI | Organização de repositórios
 Banco de Dados:    Modelagem | SQL | Consultas | Relacionamentos
-Soft Skills:       Comunicacao | Disciplina | Trabalho em equipe | Aprendizado continuo
+Soft Skills:       Comunicação | Disciplina | Trabalho em equipe | Aprendizado contínuo
 ```
 
 ## Projetos relacionados
 
+- Challenge JOVI Vivo: https://github.com/caiomldias/challenge-jovi-vivo
+- Global Solution Sentinela do Cerrado: https://github.com/caiomldias/global-solution-sentinela-cerrado
 - Fintech Fluxa: https://github.com/caiomldias/fintech-fluxa
 - Fintech ADS: https://github.com/caiomldias/fintech-ads
 - Modelagem de Casos de Uso: https://github.com/caiomldias/modelagem-casos-de-uso
@@ -34,20 +36,20 @@ Soft Skills:       Comunicacao | Disciplina | Trabalho em equipe | Aprendizado c
 ## Estrutura
 
 ```text
-aprendizados/     Anotacoes por tema, aula ou disciplina
+aprendizados/     Anotações por tema, aula ou disciplina
 projetos/         Registros sobre projetos desenvolvidos
-reflexoes/        Evolucao pessoal, dificuldades e proximos passos
-objetivos/        Metas academicas e tecnicas
+reflexoes/        Evolução pessoal, dificuldades e próximos passos
+objetivos/        Metas acadêmicas e técnicas
 ```
 
 ## Objetivos atuais
 
-- Melhorar a organizacao dos meus repositorios no GitHub
+- Melhorar a organização dos meus repositórios no GitHub
 - Fortalecer HTML, CSS e JavaScript
-- Praticar documentacao tecnica de projetos
-- Criar entregas academicas mais profissionais
-- Construir portfolio com progresso real e bem explicado
+- Praticar documentação técnica de projetos
+- Criar entregas acadêmicas mais profissionais
+- Construir portfólio com progresso real e bem explicado
 
 ---
 
-Ultima atualizacao: junho de 2026
+Última atualização: junho de 2026
